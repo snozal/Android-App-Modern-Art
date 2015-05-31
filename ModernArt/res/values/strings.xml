@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArt</string>
+    <string name="action_settings">Settings</string>
+    <string name="help">More information</string>
+    <string name="alertCompleteText">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson.\n\n  Click below to learn more!</string>
+    <string name="button1">Visit MOMA</string>
+    <string name="button2">Not Now</string>
+    
+</resources>
